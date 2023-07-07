@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **RESUME WEBSITE USING REACT JS**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS and Data Structures and Algorithms**
 
 - 💬 Ask me about **Front End Development , ReactJS**
 
