@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **PHOTOGRAPHY PORTFOLIO USING REACTJS**
+- 🔭 I’m currently working on **RESUME WEBSITE USING REACT JS**
 
 - 🌱 I’m currently learning **ReactJS**
 
