@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **RESUME WEBSITE USING REACT JS**
+- 🔭 I’m currently working on **FITFLIX-a personal training and fitness website using MERN stack.**
 
 - 🌱 I’m currently learning **ReactJS and Data Structures and Algorithms**
 
