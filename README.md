@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **REPS N SETS-a personal training and fitness website using MERN stack.**
 
-- 🌱 I’m currently learning **ReactJS and Data Structures and Algorithms**
+- 🌱 I’m currently learning ** Node JS , Express Js , Mongo DB,ReactJS and Data Structures and Algorithms**
 
 - 💬 Ask me about **Front End Development , ReactJS**
 
