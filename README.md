@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **REPS N SETS-a personal training and fitness website using MERN stack.**
+- 🔭 I have recently completed **REPS N SETS-a personal training and fitness website using MERN stack.**
 
 - 🌱 I’m currently learning ** Node JS , Express Js , Mongo DB,ReactJS and Data Structures and Algorithms**
 
