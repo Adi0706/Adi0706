@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I have recently completed **REPS N SETS-a personal training and fitness website using MERN stack.**
+- 🔭 I am currently working on **MindMender- Mental Health services for patients.**
 
 - 🌱 I’m currently learning ** Node JS , Express Js , Mongo DB,ReactJS and Data Structures and Algorithms**
 
