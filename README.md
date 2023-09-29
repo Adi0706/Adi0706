@@ -1,7 +1,6 @@
 ![MasterHead](https://tenor.com/view/ninjala-jane-hacker-hacking-computer-gif-20337624.gif )
 <h1 align="left">Hi 👋, I'm Aditya Bhattacharjee</h1>
 <h3 align="left">I am a self taught aspiring Software Developer. Coding , learning new Technology and building projects has been a great experience for me . Consistency and learning from my mistakes has helped me a lot in my journey. I am always open to learn and improve myself ,which will benefit me in becoming a good programmer.</h3>
-<img align="center"  alt="coding" width="700" margin-right="500px" src="https://tenor.com/view/bubblegum-crisis-cyberpunk-anime-computer-gif-21557814.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi0706&label=Profile%20views&color=0e75b6&style=flat" alt="adi0706" /> </p>
 
