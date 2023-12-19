@@ -8,13 +8,13 @@
 
 - 🔭 I am currently working on **NutriHive- Health Supplement E Commerce Website.**
 
-- 🌱 I’m currently learning ** Node JS , Express Js , Mongo DB,ReactJS and Data Structures and Algorithms**
+- 🌱 I’m currently learning ** Core Java and SQL**
 
 - 💬 Ask me about **Front End Development , ReactJS**
 
 - 📫 How to reach me **aditya.bhattacharjee706@gmail.com**
 
-- ⚡ Fun fact **I feel I'm not good at Development but I still love doing it .**
+- ⚡ Fun fact **I am kinda addicted to coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
