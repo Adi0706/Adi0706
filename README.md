@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **aditya.bhattacharjee706@gmail.com**
 
-- ⚡ Fun fact **I am kinda addicted to coding.**
+- ⚡ Fun fact **Development is an art.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
