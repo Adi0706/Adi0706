@@ -8,7 +8,7 @@
 
 - 🔭 I am currently working on **NutriHive- Health Supplement E Commerce Website.**
 
-- 🌱 I’m currently learning ** Core Java and SQL**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 💬 Ask me about **Front End Development , ReactJS**
 
