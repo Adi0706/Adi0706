@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **side projects to polish my technology knowledge.**
+- 🔭 I’m currently working on **AI Voice Assistant News Aggregator App.**
 
 - 🌱 I’m currently learning **Node Js ,Express Js**
 
